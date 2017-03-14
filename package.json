@@ -1,0 +1,17 @@
+{
+  "name": "fresh",
+  "version": "1.0.0",
+  "description": "Day 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "bin": {
+   "snippet": "./index.js"
+ },
+  "author": "Obinna Okwuolisa",
+  "license": "ISC",
+   "dependencies": {   
+    "request": "^2.81.0"
+  }
+}
